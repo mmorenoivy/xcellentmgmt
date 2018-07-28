@@ -2,19 +2,25 @@
   margin-top: 20px;
 }
 
-.section-search input {
-  padding: 5px !important;
-  font-size: 18px !important;
-  width: 90% !important;
-  border: #f4f4f4 3px solid !important;
-}
-
 .menu-color{
   color: black !important;
 }
 
+.space
+{
+  margin-left: 20px;
+}
+
 .brand-logo{
-  font-family: 'Cinzel Decorative', cursive !important;
+  text-size: 10px !important;
+}
+
+.center
+{
+  background-position: center;
+  background-repeat: no-repeat;
+   background-size: cover;
+   position: relative;
 }
 
 .font-cinzel-custom
@@ -35,9 +41,6 @@
     border: 15px solid orange
 }
 
-.section-follow .fa-4x {
-  margin: 5px 10px;
-}
 
 .section-contact h5 {
   margin-bottom: 30px;
