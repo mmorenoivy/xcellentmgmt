@@ -6,6 +6,12 @@
   color: black !important;
 }
 
+.darken
+{
+  filter: brightness(.6);
+   -webkit-filter: brightness(.6);
+}
+
 .space
 {
   margin-left: 20px;
